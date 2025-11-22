@@ -6,7 +6,7 @@ const ItemDetails = () => {
   return (
     <>
       <h1>Item { id }</h1>
-      <p>Description from item { id }</p>
+      <p>Description from Item { id }</p>
     </>
   )
 }

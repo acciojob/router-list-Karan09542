@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 const ListItem = () => {
   return (
     <div>
-        <h1>List Item</h1>
+        <h1>Item List</h1>
         <ul>
             <li>
                 <Link to="/items/1">Item 1</Link>
